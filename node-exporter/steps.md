@@ -1,4 +1,4 @@
-~Node Exporter~
+## Steps to install node_exporter
 
 > cd /tmp
 
