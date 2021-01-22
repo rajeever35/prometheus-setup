@@ -13,3 +13,12 @@
 > systemctl start node_exporter
 
 > systemctl status node_exporter
+
+## Update the prometheus.yml file
+
+> cd /etc/prometheus/
+
+Edit the prometheus.ynl file 
+> nano prometheus.yml
+> promtool check config prometheus.yml
+> systemctl restart prometheus
