@@ -20,5 +20,7 @@
 
 Edit the prometheus.ynl file 
 > nano prometheus.yml
+
 > promtool check config prometheus.yml
+
 > systemctl restart prometheus
