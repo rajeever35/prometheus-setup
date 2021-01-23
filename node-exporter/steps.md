@@ -20,7 +20,7 @@
 
 > cd /etc/prometheus/
 
-Edit the prometheus.yml file 
+Edit the prometheus.yml to the prometheus server file 
 > nano prometheus.yml
 
 > promtool check config prometheus.yml
