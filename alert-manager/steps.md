@@ -8,12 +8,16 @@
 
 > mkdir /etc/alertmanager/
 
+Copy the content from [here](alertmanager.yml)
 > nano /etc/alertmanager/alertmanager.yml
 
+Copy the content from [here](rules.yml)
 > nano /etc/prometheus/alert_rules.yml
 
+Copy the content from [here](alertmanager.service)
 > nano /etc/systemd/system/alertmanager.service
 
+Copy the content from [here](prometheus.yml)
 > nano /etc/prometheus/prometheus.yml
 
 > systemctl daemon-reload
