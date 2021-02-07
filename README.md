@@ -8,3 +8,8 @@ This repo defines steps to install Prometheus, Node Exporter and Alertmanager.
 
  ## Alertmanager
  The Alertmanager handles alerts sent by client applications such as the Prometheus server. It takes care of deduplicating, grouping, and routing them to the correct receiver integration such as email, Slack. It also takes care of silencing and inhibition of alerts.
+
+### Ports
+* Prometheus: PORT 9090 
+* Node Exporter: PORT 9100 
+* Alertmanager: PORT 9093
