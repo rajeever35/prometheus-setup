@@ -13,3 +13,6 @@ This repo defines steps to install Prometheus, Node Exporter and Alertmanager.
 * Prometheus: PORT 9090 
 * Node Exporter: PORT 9100 
 * Alertmanager: PORT 9093
+
+### Alert to the email
+![email](alert-manager/screenshot/email.png)
