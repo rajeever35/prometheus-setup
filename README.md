@@ -16,3 +16,6 @@ This repo defines steps to install Prometheus, Node Exporter and Alertmanager.
 
 ### Alert to the email
 ![email](alert-manager/screenshot/email.png)
+
+### Graph showing cpu usage and memory 
+![data](node-exporter/screenshot/data.png)
