@@ -20,7 +20,7 @@ Copy the content of [node_exporter.service](node_exporter.service) to node_expor
 Start node_exporter by:
 > systemctl start node_exporter
 
-Check the status by:
+Check the status of node_exporter by:
 > systemctl status node_exporter
 
 <br>
